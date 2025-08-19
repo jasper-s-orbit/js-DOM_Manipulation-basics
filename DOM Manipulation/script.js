@@ -5,7 +5,7 @@ const spanHi = document.querySelector('#hi');
 const spanBye = document.querySelector('#bye');
 
 // body.append(9,9);
-// append works for everything, it also works for multiple items
+// append works for everything; it also works for multiple items
 
 // body.appendChild('Hello World');
 // appendChild only works for elements, and only works for one element at a time 
@@ -68,4 +68,4 @@ const spanBye = document.querySelector('#bye');
 // spanHi.classList.toggle('hi3')
 
 // spanHi.style.display = 'none';
-onclick => ()
+
